@@ -6,9 +6,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0817-linked-list-components](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0817-linked-list-components) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/2181-merge-nodes-in-between-zeros) |
+## Array
+|  |
+| ------- |
+| [0817-linked-list-components](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0817-linked-list-components) |
+## Hash Table
+|  |
+| ------- |
+| [0817-linked-list-components](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0817-linked-list-components) |
 <!---LeetCode Topics End-->
