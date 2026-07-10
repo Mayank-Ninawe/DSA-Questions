@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0057-insert-interval) |
 | [0817-linked-list-components](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0817-linked-list-components) |
 ## Hash Table
 |  |
