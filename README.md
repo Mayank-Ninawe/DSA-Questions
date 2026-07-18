@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+## String
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
