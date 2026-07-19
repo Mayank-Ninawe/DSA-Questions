@@ -50,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
