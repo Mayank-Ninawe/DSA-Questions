@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0057-insert-interval) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0817-linked-list-components](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0817-linked-list-components) |
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0817-linked-list-components](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0817-linked-list-components) |
 ## Math
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 ## String
 |  |
@@ -63,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0055-jump-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
