@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0817-linked-list-components](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0817-linked-list-components) |
+| [0942-di-string-match](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0942-di-string-match) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0942-di-string-match](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0942-di-string-match) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Database
 |  |
@@ -67,8 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0055-jump-game) |
+| [0942-di-string-match](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0942-di-string-match) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0942-di-string-match](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0942-di-string-match) |
 <!---LeetCode Topics End-->
