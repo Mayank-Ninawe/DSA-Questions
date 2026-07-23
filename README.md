@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0062-unique-paths) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
