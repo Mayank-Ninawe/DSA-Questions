@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0057-insert-interval) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0189-rotate-array) |
 | [0942-di-string-match](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0942-di-string-match) |
