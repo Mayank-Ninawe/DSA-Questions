@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0198-house-robber) |
+| [0287-find-the-duplicate-number](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0494-target-sum](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0817-linked-list-components](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0817-linked-list-components) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0942-di-string-match](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0942-di-string-match) |
 ## Memoization
 |  |
@@ -132,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
