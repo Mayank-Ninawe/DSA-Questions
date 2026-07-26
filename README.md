@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0817-linked-list-components](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0817-linked-list-components) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0189-rotate-array) |
