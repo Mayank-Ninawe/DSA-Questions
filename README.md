@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0817-linked-list-components](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0817-linked-list-components) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0942-di-string-match](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0942-di-string-match) |
 ## Memoization
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
