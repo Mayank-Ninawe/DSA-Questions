@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1137-n-th-tribonacci-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0091-decode-ways) |
 | [0942-di-string-match](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0942-di-string-match) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Database
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0135-candy) |
 | [0942-di-string-match](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0942-di-string-match) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Divide and Conquer
 |  |
 | ------- |
