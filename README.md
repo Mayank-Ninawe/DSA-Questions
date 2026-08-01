@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1137-n-th-tribonacci-number) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1137-n-th-tribonacci-number) |
@@ -164,4 +167,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
