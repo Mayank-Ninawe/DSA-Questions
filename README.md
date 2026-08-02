@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0817-linked-list-components](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0817-linked-list-components) |
+| [0877-stone-game](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0877-stone-game) |
 | [0942-di-string-match](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0942-di-string-match) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0877-stone-game) |
 ## Breadth-First Search
 |  |
 | ------- |
