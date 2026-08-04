@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0942-di-string-match) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [3731-find-missing-elements](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0817-linked-list-components](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0817-linked-list-components) |
+| [3731-find-missing-elements](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
