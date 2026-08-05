@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0189-rotate-array) |
+| [0371-sum-of-two-integers](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0877-stone-game) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
 | ------- |
