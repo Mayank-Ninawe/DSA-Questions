@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1148-article-views-i](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Dynamic Programming
 |  |
 | ------- |
