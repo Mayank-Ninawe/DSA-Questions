@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0142-linked-list-cycle-ii](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0817-linked-list-components](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0817-linked-list-components) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0371-sum-of-two-integers) |
+| [0445-add-two-numbers-ii](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0877-stone-game) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
