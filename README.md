@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
