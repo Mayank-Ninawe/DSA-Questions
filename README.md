@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0942-di-string-match](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0942-di-string-match) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
