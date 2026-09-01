@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0494-target-sum) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0817-linked-list-components](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0817-linked-list-components) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0371-sum-of-two-integers) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0445-add-two-numbers-ii](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -232,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
