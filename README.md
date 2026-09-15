@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1952-three-divisors](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/2427-number-of-common-factors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/2427-number-of-common-factors) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -260,4 +263,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1952-three-divisors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
