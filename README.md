@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0091-decode-ways) |
 | [0678-valid-parenthesis-string](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0942-di-string-match](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0942-di-string-match) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0064-minimum-path-sum) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0494-target-sum) |
 ## Sorting
 |  |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 ## Counting
 |  |
