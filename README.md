@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0817-linked-list-components) |
 | [0877-stone-game](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0877-stone-game) |
 | [0942-di-string-match](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0942-di-string-match) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1137-n-th-tribonacci-number) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1952-three-divisors](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/2427-number-of-common-factors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0942-di-string-match](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0942-di-string-match) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Divide and Conquer
