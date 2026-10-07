@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0877-stone-game) |
 | [0942-di-string-match](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0942-di-string-match) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0817-linked-list-components](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0817-linked-list-components) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0942-di-string-match](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0942-di-string-match) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Divide and Conquer
