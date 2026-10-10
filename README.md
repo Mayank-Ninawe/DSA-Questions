@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0494-target-sum) |
+| [0506-relative-ranks](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0735-asteroid-collision) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
+| [0506-relative-ranks](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/0506-relative-ranks) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Mayank-Ninawe/DSA-Questions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Ordered Set
 |  |
